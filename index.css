@@ -1,0 +1,53 @@
+h1 {
+    color: red;
+}
+
+h3 {
+    color: red;
+    font-style: italic;
+}
+
+ol,
+ul {
+    color: maroon;
+}
+
+.first {
+    text-decoration: line-through;
+}
+
+.second {
+    background-color: yellow;
+}
+
+.third {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+ul {
+    letter-spacing: 3px;
+}
+
+p {
+    color:brown;
+
+}
+
+.fourth {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.fifth {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+a {
+
+    background-color: yellow;
+    font-style: italic;
+    color: maroon;
+    text-decoration: none;
+}
